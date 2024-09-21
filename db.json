@@ -1,0 +1,166 @@
+{
+    "tandoor" : [
+        {
+            "id": 1,
+            "item": "Tandoori Chicken",
+            "price": 150,
+            "image": "https://media.istockphoto.com/id/1427169973/photo/rustic-chicken-drumstricks-on-a-cast-iron-skillet-with-condiments-garnished-with-onion-and.jpg?s=612x612&w=0&k=20&c=A6RHDKn2AMpZ4uk6cn_jGIlWScGrmhNS39k0aLuGkZY=",
+            "description": "Chicken marinated in yogurt and spices, grilled in a tandoor.",
+            "time": 30,
+            "rating": 4.8,
+            "count": 1450
+        },
+        {
+            "id": 2,
+            "item": "Paneer Tikka",
+            "price": 120,
+            "image": "https://media.istockphoto.com/id/1186760058/photo/paneer-tikka-at-skewers-in-white-plate-isolated-at-white-background-paneer-tikka-is-an-indian.jpg?s=612x612&w=0&k=20&c=Dgn3achrVzzIkCevhvXgXgr2Bk5fyyhamwR09EgA_zQ=",
+            "description": "Skewers of spiced paneer grilled to perfection in a tandoor.",
+            "time": 25,
+            "rating": 4.6,
+            "count": 1700
+        },
+        {
+            "id": 3,
+            "item": "Seekh Kebab",
+            "price": 130,
+            "image": "https://media.istockphoto.com/id/2164457131/photo/lula-kebab-with-vegetables-on-flat-bread-on-wooden-platter.jpg?s=612x612&w=0&k=20&c=_cDyWGnbfjqn1pn7-jwWTuxK1WNLYuJEweHOYoiGZ0Y=",
+            "description": "Spiced minced meat skewers cooked in a tandoor.",
+            "time": 35,
+            "rating": 4.5,
+            "count": 960
+        },
+        {
+            "id": 4,
+            "item": "Chicken Tikka",
+            "price": 140,
+            "image": "https://media.istockphoto.com/id/2134450564/photo/chicken-tikka-kabab.jpg?s=612x612&w=0&k=20&c=inBP1cum1iz9RBGN9omQlvY2HIgRTzAyi04Q6a1gKwc=",
+            "description": "Boneless chicken pieces marinated in spices and grilled.",
+            "time": 30,
+            "rating": 4.5,
+            "count": 1100
+        },
+        {
+            "id": 5,
+            "item": "Malai Tikka",
+            "price": 160,
+            "image": "https://media.istockphoto.com/id/524428653/photo/asian-food-chicken-sate.jpg?s=612x612&w=0&k=20&c=2hed4NWZuUU0htJySslxw-mvJVa8Z-hHk4dtrRwYTFQ=",
+            "description": "Creamy, marinated chicken skewers cooked in a tandoor.",
+            "time": 35,
+            "rating": 4.7,
+            "count": 800
+        },
+        {
+            "id": 6,
+            "item": "Tandoori Roti",
+            "price": 40,
+            "image": "https://media.istockphoto.com/id/1187799647/photo/aloo-ke-parathe.jpg?s=612x612&w=0&k=20&c=rZBf-D__VDe6VDohWSK2B0HmZNDgybsoG65A4STW8v4=",
+            "description": "Unleavened whole wheat flatbread cooked in a tandoor.",
+            "time": 10,
+            "rating": 4.2,
+            "count": 1500
+        },
+        {
+            "id": 7,
+            "item": "Tandoori Fish",
+            "price": 170,
+            "image": "https://media.istockphoto.com/id/1135278506/photo/grilled-fish-on-plate.jpg?s=612x612&w=0&k=20&c=OvqmaCpfu6CcN3zArQLffc0pCBch5VzC3YCM_tJzo1U=",
+            "description": "Fish marinated in spices and grilled in a tandoor oven.",
+            "time": 25,
+            "rating": 4.6,
+            "count": 900
+        },
+        {
+            "id": 8,
+            "item": "Tandoori Prawns",
+            "price": 180,
+            "image": "https://media.istockphoto.com/id/1439819117/photo/close-up-with-a-delicious-snack-grilled-shrimp-on-beautiful-black-plate-water-and-lemon-top.jpg?s=612x612&w=0&k=20&c=4GJkQC4XZFYSPFYGE6nFTcUxq8BB-EfqWH2vOTljc38=",
+            "description": "Succulent prawns marinated in spices and grilled in a tandoor.",
+            "time": 30,
+            "rating": 4.9,
+            "count": 650
+        }
+    ],
+    "streetfood" : [
+        {
+            "id": 1,
+            "item": "Chole Bhature",
+            "price": 100,
+            "image": "https://media.istockphoto.com/id/1340773880/vector/chole-bhature-or-chick-pea-curry-and-fried-puri-vector-background.jpg?s=612x612&w=0&k=20&c=ERxP3JIrkoZ6Iw48J78wDkC7AK_62w1bulWeSnqzg_k=",
+            "description": "A combination of spicy chickpea curry and deep-fried bread.",
+            "time": 20,
+            "rating": 4.5,
+            "count": 1500
+        },
+        {
+            "id": 2,
+            "item": "Pav Bhaji",
+            "price": 90,
+            "image": "https://media.istockphoto.com/id/1319403400/photo/pav-bhaji-is-a-fast-food-dish-from-india-consists-of-a-thick-vegetable-curry-served-with-a.jpg?s=612x612&w=0&k=20&c=brEx7NXCLi_7Zz1ZyXNHzfh6uBxKeMImSIWn1ySPRkY=",
+            "description": "A spiced vegetable mash served with buttered bread rolls.",
+            "time": 15,
+            "rating": 4.6,
+            "count": 1300
+        },
+        {
+            "id": 3,
+            "item": "Dahi Puri",
+            "price": 70,
+            "image": "https://media.istockphoto.com/id/1200303055/photo/aloo-tikki-or-potato-patti-chat-an-indian-traditional-snack.jpg?s=612x612&w=0&k=20&c=6SNEo8Utakc5fqqmJTDgpJ2zEZJrH8ubShIfKgjFtXU=",
+            "description": "Crisp puris filled with yogurt, chutneys, and spices.",
+            "time": 10,
+            "rating": 4.3,
+            "count": 1100
+        },
+        {
+            "id": 4,
+            "item": "Sev Puri",
+            "price": 80,
+            "image": "https://media.istockphoto.com/id/1340748989/vector/sev-puri-or-papdi-chaat-indian-street-food-snacks-colourful-abstract-art-background-vector.jpg?s=612x612&w=0&k=20&c=8zDTptU6EcEZBQsgJc3TZn-nAczWa8Wtdful38ujmv8=",
+            "description": "A tangy, spicy snack made with crisp puris, chutneys, and sev.",
+            "time": 12,
+            "rating": 4.4,
+            "count": 900
+        },
+        {
+            "id": 5,
+            "item": "Aloo Chaat",
+            "price": 60,
+            "image": "https://media.istockphoto.com/id/1492430194/photo/cilok.jpg?s=612x612&w=0&k=20&c=YIJ48wDec2V-Wlu_4OoBBXktDsb2XiKLBBzvRIDUl94=",
+            "description": "Spiced and tangy potato chunks served with chutneys.",
+            "time": 10,
+            "rating": 4.2,
+            "count": 1400
+        },
+        {
+            "id": 6,
+            "item": "Bombay Sandwich",
+            "price": 70,
+            "image": "https://media.istockphoto.com/id/137451752/photo/roast-beef-sandwich-top-view-isolated-on-white.jpg?s=612x612&w=0&k=20&c=_e9vvNdOI8X7oOzn7c7u0vesbJw2lbC38i3lnpG6WGk=",
+            "description": "A grilled sandwich with spiced potato filling and chutneys.",
+            "time": 15,
+            "rating": 4.5,
+            "count": 800
+        },
+        {
+            "id": 7,
+            "item": "Kathi Roll",
+            "price": 110,
+            "image": "https://media.istockphoto.com/id/1157478986/photo/kathi-roll-snack.jpg?s=612x612&w=0&k=20&c=SZtoRhW0CbIIxY61FZAPWbm4suXzU5anskJQi4BTYVE=",
+            "description": "A flatbread wrap filled with spiced meat or vegetables.",
+            "time": 20,
+            "rating": 4.3,
+            "count": 750
+        },
+        {
+            "id": 8,
+            "item": "Egg Roll",
+            "price": 100,
+            "image": "https://media.istockphoto.com/id/187245000/photo/chinese-egg-rolls-with-sauce-on-plate.jpg?s=612x612&w=0&k=20&c=B2F-UQHOouE7qdWALjgJSec5mwBJtv3GYwhCzLtp0i0=",
+            "description": "A street food wrap made with egg-coated flatbread and spiced fillings.",
+            "time": 15,
+            "rating": 4.6,
+            "count": 600
+        }
+    ]
+}
